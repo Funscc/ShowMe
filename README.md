@@ -12,3 +12,4 @@ Typecho Theme ShowMe1.0.0
 仿制版本,勿喷勿闹.喜欢就用.不喜欢就X。
 
 
+演示站点：http://www.echoo.cc
